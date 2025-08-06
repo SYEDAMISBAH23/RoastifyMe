@@ -1,0 +1,18 @@
+2025-08-06 10:24:00.781015 | Compliment | Input: i am so sad right now | Output: You said: *i am so sad right now*... and still thought you’d escape a roast? 😏
+2025-08-06 10:24:08.698942 | Compliment | Input: Feeling meh | Output: You said: *Feeling meh*... and still thought you’d escape a roast? 😏
+2025-08-06 10:26:09.730712 | Roast | Input: Surprise me! | Output: You're the middle panel in a comic strip. Transitional. 📰
+2025-08-06 10:26:19.266936 | Roast | Input: Iam happy hehehe | Output: You're like a very safe for loop. Too safe. 🧼
+2025-08-06 10:30:01.735235 | Roast | Input: hi smart ass | Output: You're like Monday... just there. 🗓️😒
+2025-08-06 10:30:10.645136 | Compliment | Input: hi smart ass | Output: You're the documentation I didn't know I needed. 📚
+2025-08-06 10:30:26.919121 | Compliment | Input: hi smart ass | Output: You're holding it together like semicolons in JavaScript. 👏
+2025-08-06 10:30:32.721439 | Compliment | Input: Surprise me! | Output: You're like a class that just works. 🏷️
+2025-08-06 10:32:37.297150 | Compliment | Input: Feeling meh | Output: You’re calm like a well-handled exception. 🧘‍♂️
+2025-08-06 10:32:46.573601 | Roast | Input: Feeling meh | Output: You're as exciting as dry toast without butter. 🍞
+2025-08-06 10:33:51.658888 | Roast | Input: Feeling meh | Output: You're a git push --force on happiness. ⛓️
+2025-08-06 10:33:53.953350 | Roast | Input: Feeling meh | Output: You're one step away from deleting system32. 💀
+2025-08-06 10:34:09.934719 | Compliment | Input: Feeling meh | Output: You said: *Feeling meh*... and still thought you’d escape a roast? 😏
+2025-08-06 10:34:15.728632 | Compliment | Input: Surprise me! | Output: You said: *Surprise me!*... and still thought you’d escape a roast? 😏
+2025-08-06 10:38:41.504042 | Compliment | Input: Feeling meh | Output: You said: *Feeling meh*... and still thought you’d escape a roast? 😏
+2025-08-06 10:38:44.514934 | Compliment | Input: Feeling meh | Output: You said: *Feeling meh*... and still thought you’d escape a roast? 😏
+2025-08-06 10:38:51.706477 | Compliment | Input: im sad | Output: You said: *im sad*... and still thought you’d escape a roast? 😏
+2025-08-06 10:39:17.275698 | Compliment | Input: im sad | Output: You're still a masterpiece — even with typos. ✍️
